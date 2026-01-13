@@ -1,16 +1,26 @@
-## Hi there 👋
+# Tresor Megane TAMBAT
 
-<!--
-**TTM1971/TTM1971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Étudiante en informatique | Data Science & Développement logiciel
 
-Here are some ideas to get you started:
+capture.png
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### À propos de moi
+-  Étudiante en informatique  
+-  Passionnée par la science des données et l’intelligence artificielle  
+-  Intéressée par le développement web et mobile 
+-  Basée au Canada  
+
+### Compétences
+- Langages : Python, Java, SQL
+- Data : Pandas, NumPy, scikit-learn, matplotlib, power BI
+- Outils : Git, GitHub, VS Code, android studio
+- Bases de données : MySQL, PostgreSQL
+
+### Projets
+-  Analyse de données
+-  Machine Learning
+-  Applications logicielles
+
+### Contact
+- LinkedIn : [https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/tresor-tambat-b93894272)
+
