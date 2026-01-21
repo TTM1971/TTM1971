@@ -1,4 +1,4 @@
-# Tresor Megane TAMBAT
+# TRESOR MEGANE TAMBAT
 
 ## Étudiante en informatique | Data Science & Développement logiciel
 <img width="721" height="480" alt="Capture" src="https://github.com/user-attachments/assets/4efe81c3-1bfc-442f-a564-0710d9a6f49c" />
